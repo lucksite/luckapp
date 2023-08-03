@@ -1,0 +1,23 @@
+.frame-1-frame-1x {
+      font-weight:400;
+text-align:center;
+color:rgba(0,0,0,1);
+font-family:Inter;
+align-items:center;
+justify-content:center;
+display:flex;
+background-color:rgba(255,255,255,1);
+padding-right:32px;
+padding-left:32px;
+padding-bottom:378px;
+padding-top:378px;
+box-sizing:border-box;
+height:864px;
+width:1536px;
+    }
+
+.frame-1-nothing-here-yet-but {
+      width:1472px;
+height:109px;
+font-size:90px;
+    }
